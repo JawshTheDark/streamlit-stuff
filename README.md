@@ -23,4 +23,4 @@ This Python program allows you to monitor system performance, test internet spee
 
 ## License
 
-This software is released under the MIT License, which allows for free use, modification, and distribution of the software as long as the license terms are followed. For more information, please refer to the LICENSE file.
+This software is released under the GNU Public License (GPL), a free, open-source license that allows users to use, modify, and distribute the software as long as they also distribute the source code under the same license. For more information, please refer to the LICENSE file.
