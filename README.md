@@ -6,16 +6,16 @@ This Python program allows you to monitor system performance, test internet spee
 To clone and install the Streamlit-Stuff Python program, you can use the following steps:
 
 1. Clone the repository from GitHub:
-   git clone https://github.com/JawshTheDark/streamlit-stuff.git
+   ```git clone https://github.com/JawshTheDark/streamlit-stuff.git```
    
 2. Navigate to the cloned directory:
-   cd streamlit-stuff
+   ```cd streamlit-stuff```
    
 3. Install the required dependencies using pip and the `requirements.txt` file:
-   pip install -r requirements.txt
+   ```pip install -r requirements.txt```
    
 4. Run the program using Streamlit:
-   streamlit run streamlit_stuff.py
+   ```streamlit run streamlit_stuff.py```
 
 5. Choose the desired section from the navigation menu:
     - "System Information" displays CPU, RAM, and GPU usage.
